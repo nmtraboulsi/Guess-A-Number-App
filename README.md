@@ -6,3 +6,5 @@ This app was created using Android Studio and Java Programming language. I creat
 # About Application
 
 The application is a game that users can play. They must guess a number between 1-100 and if the user doesn't get the right answer they must play again. The game will also show the number of tries that the user has taken. 
+
+Screen Shot 2020-08-11 at 7.16.34 PM.png
