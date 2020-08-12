@@ -11,4 +11,4 @@ The application is a game that users can play. They must guess a number between 
 
 # Algorithm
 
-![Test Image 2] (https://github.com/nmtraboulsi/Guess-A-Number-App/blob/master/Algorithm.png)
+![Test Image 2] ("https://github.com/nmtraboulsi/Guess-A-Number-App/blob/master/Algorithm.png")
