@@ -11,4 +11,4 @@ The application is a game that users can play. They must guess a number between 
 
 # Algorithm
 
-![Test Image 2]("Algorithm.png")
+![Test Image 2](Algorithm.png)
